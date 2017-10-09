@@ -1,3 +1,6 @@
+[![Datmo Model](https://datmo.com/shabazp/python-machine-learning-book/badge.svg)](https://datmo.com/shabazp/python-machine-learning-book)
+
+
 ## Python Machine Learning (2nd Ed.) Code Repository
 
 [![Build Status](https://travis-ci.com/rasbt/python-machine-learning-book-2nd-edition.svg?token=zvSsJVLJFKzB2yqaeKN1&branch=master)](https://travis-ci.com/rasbt/python-machine-learning-book-2nd-edition)
